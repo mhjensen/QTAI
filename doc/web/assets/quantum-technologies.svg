@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260" role="img" aria-labelledby="title desc">
+  <title id="title">Quantum state and measurement</title>
+  <desc id="desc">Conceptual vector illustration of a Bloch sphere, a quantum state vector, and a measurement device. No measured data are shown.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 8 4 0 8" fill="none" stroke="#147D86" stroke-width="1.5" stroke-linejoin="round"/></marker>
+    <marker id="inkArrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#122A34" stroke-width="1.5" stroke-linejoin="round"/></marker>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 204H355" stroke="#BDD4D5" stroke-width="1"/>
+    <circle cx="139" cy="120" r="76" fill="#147D86" fill-opacity=".025" stroke="#122A34" stroke-width="1.5"/>
+    <ellipse cx="139" cy="120" rx="76" ry="23" stroke="#BDD4D5" stroke-width="1.25"/>
+    <ellipse cx="139" cy="120" rx="26" ry="76" transform="rotate(24 139 120)" stroke="#BDD4D5" stroke-width="1.25"/>
+    <path d="M139 120V28M139 120 48 144M139 120 211 169" stroke="#BDD4D5" stroke-width="1.1"/>
+    <path d="M139 120 177 65" stroke="#147D86" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M139 120H177V65" stroke="#BDD4D5" stroke-width="1" stroke-dasharray="3 5"/>
+    <path d="M159 91A36 36 0 0 0 139 84" stroke="#C47E51" stroke-width="1.8"/>
+    <circle cx="139" cy="120" r="3" fill="#122A34" stroke="none"/>
+    <circle cx="177" cy="65" r="4.5" fill="#147D86" stroke="none"/>
+    <path d="M230 120H270" stroke="#147D86" stroke-width="1.7" marker-end="url(#arrow)"/>
+    <rect x="282" y="86" width="71" height="68" rx="8" fill="#147D86" fill-opacity=".035" stroke="#122A34" stroke-width="1.5"/>
+    <path d="M295 129A23 23 0 0 1 340 129M317 128 332 105" stroke="#147D86" stroke-width="1.7"/>
+    <circle cx="317" cy="128" r="3" fill="#C47E51" stroke="none"/>
+    <path d="M293 171V183M317 171V192M341 171V183" stroke="#BDD4D5" stroke-width="1.5"/>
+    <path d="M83 222H104M114 222H135M145 222H166" stroke="#BDD4D5" stroke-width="1.5"/>
+  </g>
+</svg>

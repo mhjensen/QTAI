@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260" role="img" aria-labelledby="title desc">
+  <title id="title">Hybrid quantum and classical learning</title>
+  <desc id="desc">Conceptual hybrid workflow: parameterized quantum gates and controlled operations, quantum measurement, and a classical optimization step that updates circuit parameters. No specific algorithm or advantage is claimed.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#147D86" stroke-width="1.5" stroke-linejoin="round"/></marker>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="27" y="49" width="230" height="135" rx="9" fill="#147D86" fill-opacity=".025" stroke="#BDD4D5" stroke-width="1.2"/>
+    <path d="M43 82H240M43 116H240M43 150H240" stroke="#122A34" stroke-width="1.25"/>
+    <g fill="#F8FAF9" stroke="#147D86" stroke-width="1.45"><rect x="62" y="69" width="26" height="26" rx="3"/><rect x="62" y="103" width="26" height="26" rx="3"/><rect x="62" y="137" width="26" height="26" rx="3"/></g>
+    <path d="M81 77A7 7 0 1 0 81 87M81 77V81H77M81 111A7 7 0 1 0 81 121M81 111V115H77M81 145A7 7 0 1 0 81 155M81 145V149H77" stroke="#147D86" stroke-width="1.2"/>
+    <path d="M120 82V116M158 116V150" stroke="#122A34" stroke-width="1.4"/>
+    <circle cx="120" cy="82" r="3.5" fill="#122A34" stroke="none"/><circle cx="158" cy="116" r="3.5" fill="#122A34" stroke="none"/>
+    <circle cx="120" cy="116" r="7" fill="#F8FAF9" stroke="#122A34" stroke-width="1.35"/><path d="M113 116H127M120 109V123" stroke="#122A34" stroke-width="1.2"/>
+    <circle cx="158" cy="150" r="7" fill="#F8FAF9" stroke="#122A34" stroke-width="1.35"/><path d="M151 150H165M158 143V157" stroke="#122A34" stroke-width="1.2"/>
+    <g fill="#F8FAF9" stroke="#122A34" stroke-width="1.25"><rect x="203" y="69" width="26" height="26" rx="3"/><rect x="203" y="103" width="26" height="26" rx="3"/><rect x="203" y="137" width="26" height="26" rx="3"/></g>
+    <path d="M209 87A7 7 0 0 1 223 87M216 87 221 77M209 121A7 7 0 0 1 223 121M216 121 221 111M209 155A7 7 0 0 1 223 155M216 155 221 145" stroke="#147D86" stroke-width="1.2"/>
+    <path d="M267 116H294" stroke="#147D86" stroke-width="1.6" marker-end="url(#arrow)"/>
+    <rect x="307" y="82" width="65" height="68" rx="8" fill="#147D86" fill-opacity=".035" stroke="#122A34" stroke-width="1.4"/>
+    <path d="M321 101H358M321 116H358M321 131H358" stroke="#BDD4D5" stroke-width="1.4"/>
+    <circle cx="334" cy="101" r="3.5" fill="#147D86" stroke="none"/><circle cx="348" cy="116" r="3.5" fill="#147D86" stroke="none"/><circle cx="329" cy="131" r="3.5" fill="#C47E51" stroke="none"/>
+    <path d="M339 161V195Q339 217 317 217H96Q75 217 75 196V175" stroke="#147D86" stroke-width="1.6" marker-end="url(#arrow)"/>
+    <path d="M47 35H82M92 35H112" stroke="#BDD4D5" stroke-width="1.2"/>
+    <circle cx="275" cy="217" r="3" fill="#C47E51" stroke="none"/>
+  </g>
+</svg>
